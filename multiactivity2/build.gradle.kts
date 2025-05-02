@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.klishenkovaai.multiactivity2"
+    namespace = "ru.mirea.klishenkovai.multiactivity2"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.klishenkovaai.multiactivity2"
+        applicationId = "ru.mirea.klishenkovai.multiactivity2"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
