@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.dialog;
+package ru.mirea.klishenkovai.dialog;
 
 import android.os.Bundle;
 import android.view.View;
