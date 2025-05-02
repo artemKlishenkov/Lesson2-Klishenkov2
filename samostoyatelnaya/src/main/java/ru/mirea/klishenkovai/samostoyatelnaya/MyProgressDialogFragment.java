@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.samostoyatelnaya;
+package ru.mirea.klishenkovai.samostoyatelnaya;
 
 import android.app.Dialog;
 import android.app.ProgressDialog;
