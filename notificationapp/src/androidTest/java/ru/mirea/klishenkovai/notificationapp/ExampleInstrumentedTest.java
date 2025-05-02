@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.notificationapp;
+package ru.mirea.klishenkovai.notificationapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.klishenkovaai.notificationapp", appContext.getPackageName());
+        assertEquals("ru.mirea.klishenkovai.notificationapp", appContext.getPackageName());
     }
 }
