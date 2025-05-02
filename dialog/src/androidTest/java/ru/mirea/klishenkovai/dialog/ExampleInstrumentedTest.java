@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.dialog;
+package ru.mirea.klishenkovai.dialog;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.klishenkovaai.dialog", appContext.getPackageName());
+        assertEquals("ru.mirea.klishenkovai.dialog", appContext.getPackageName());
     }
 }
