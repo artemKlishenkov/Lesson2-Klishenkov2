@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.intentfilter;
+package ru.mirea.klishenkovai.intentfilter;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void sharePersonalInfo() {
-        String fio = "Клишенкова Алина Игоревна";
+        String fio = "Клишенков Артём Игоревич";
         String university = "МИРЭА";
 
         Intent shareIntent = new Intent(Intent.ACTION_SEND);
