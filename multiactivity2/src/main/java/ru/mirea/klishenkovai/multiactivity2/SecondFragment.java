@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.multiactivity2;
+package ru.mirea.klishenkovai.multiactivity2;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import ru.mirea.klishenkovaai.multiactivity2.databinding.FragmentSecondBinding;
+import ru.mirea.klishenkovai.multiactivity2.databinding.FragmentSecondBinding;
 
 public class SecondFragment extends Fragment {
 
