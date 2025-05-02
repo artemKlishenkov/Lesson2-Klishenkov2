@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.klishenkovaai.notificationapp"
+    namespace = "ru.mirea.klishenkovai.notificationapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.klishenkovaai.notificationapp"
+        applicationId = "ru.mirea.klishenkovai.notificationapp"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
