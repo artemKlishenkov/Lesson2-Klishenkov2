@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.multiactivity2;
+package ru.mirea.klishenkovai.multiactivity2;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
