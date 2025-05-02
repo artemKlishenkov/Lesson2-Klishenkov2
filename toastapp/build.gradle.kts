@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.klishenkovaai.toastapp"
+    namespace = "ru.mirea.klishenkovai.toastapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.klishenkovaai.toastapp"
+        applicationId = "ru.mirea.klishenkovai.toastapp"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
