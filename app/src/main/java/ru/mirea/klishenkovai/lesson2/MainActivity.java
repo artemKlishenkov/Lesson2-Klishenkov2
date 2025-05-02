@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.lesson2;
+package ru.mirea.klishenkovai.lesson2;
 
 import android.os.Bundle;
 
