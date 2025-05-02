@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.activitylifecycle;
+package ru.mirea.klishenkovai.activitylifecycle;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
