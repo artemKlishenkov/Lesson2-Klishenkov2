@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.activitylifecycle;
+package ru.mirea.klishenkovai.activitylifecycle;
 
 import org.junit.Test;
 
