@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.lesson2;
+package ru.mirea.klishenkovai.lesson2;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.mirea.klishenkovaai.lesson2", appContext.getPackageName());
+        assertEquals("ru.mirea.klishenkovai.lesson2", appContext.getPackageName());
     }
 }
