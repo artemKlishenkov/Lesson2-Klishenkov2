@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.klishenkovaai.dialog"
+    namespace = "ru.mirea.klishenkovai.dialog"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "ru.mirea.klishenkovaai.dialog"
+        applicationId = "ru.mirea.klishenkovai.dialog"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
