@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.samostoyatelnaya;
+package ru.mirea.klishenkovai.samostoyatelnaya;
 
 import android.os.Bundle;
 import android.view.View;
