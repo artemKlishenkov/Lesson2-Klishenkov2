@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.notificationapp;
+package ru.mirea.klishenkovai.notificationapp;
 
 import android.Manifest;
 import android.app.NotificationChannel;
