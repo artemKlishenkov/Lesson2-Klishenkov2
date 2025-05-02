@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.dialog;
+package ru.mirea.klishenkovai.dialog;
 
 import android.app.Dialog;
 import android.content.DialogInterface;
