@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.intentfilter;
+package ru.mirea.klishenkovai.intentfilter;
 
 import org.junit.Test;
 
