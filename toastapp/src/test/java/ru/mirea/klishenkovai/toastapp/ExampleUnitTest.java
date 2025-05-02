@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.toastapp;
+package ru.mirea.klishenkovai.toastapp;
 
 import org.junit.Test;
 
