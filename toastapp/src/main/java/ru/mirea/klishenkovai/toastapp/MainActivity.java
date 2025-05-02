@@ -1,4 +1,4 @@
-package ru.mirea.klishenkovaai.toastapp;
+package ru.mirea.klishenkovai.toastapp;
 
 import android.os.Bundle;
 import android.view.View;
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         String inputText = editText.getText().toString();
         int charCount = inputText.length();
 
-        String message = "СТУДЕНТ № 14 ГРУППА БСБО-06-23 Количество символов - " + charCount;
+        String message = "СТУДЕНТ № 13 ГРУППА БСБО-06-23 Количество символов - " + charCount;
         Toast.makeText(this, message, Toast.LENGTH_LONG).show();
     }
 }
